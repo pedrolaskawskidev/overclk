@@ -1,0 +1,15 @@
+.carousel-caption h3 {
+    margin-top: -20px; /* Ajuste o valor conforme necessário */
+}
+
+/* .carousel-item {
+    height: 250px; /* Defina a altura desejada aqui */
+    overflow: hidden; /* Oculta partes da imagem que não cabem */
+/* }
+
+.carrousel-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.4;
+} */ 
